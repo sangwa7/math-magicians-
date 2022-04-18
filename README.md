@@ -1,19 +1,20 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Math magicians
 
 > Description the project.
 
+This is a simple calculator App to perform basic mathematical operations. 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: HTML, CSS, JavaScript. 
+- Frameworks: React JS.
+- Technologies used: HTML, CSS, JavaScript. 
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+
 
 
 ## Getting Started
@@ -21,37 +22,38 @@
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
+- [ ] Open CMD or Terminal 
+- [ ] git clone https://github.com/sangwa7/math-magicians
+- [ ] cd into the folder that has all the contents.
+- [ ] run the command: npm start
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
 ### Setup
+- [ ] After cloning up the project
+- [ ] Run the command: npm install to get all the packages.
+- [ ] Run the command: npm start to initialize the project. 
 
 ### Install
+- [ ] You should first have node js in your computer with node version >== 14.0.0 and npm version >=5.6
+- [ ] Run the command: npm install to get all the packages.
+- [ ] Run the command: npm start to initialize the project. 
 
 ### Usage
 
-### Run tests
-
-### Deployment
-
+- [ ] Run the command: npm start to initialize the project. 
+- [ ] You click a number add an arthmetic operation sign then another number after you press = sign to see the output
 
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Sangwa Didier**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+- GitHub: [Didier Sangwa](https://github.com/sangwa7)
+- Twitter: [@sangwa_7](https://twitter.com/sangwa_7)
+- LinkedIn: [Didier Sangwa](https://www.linkedin.com/in/didier-sangwa-463054227)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
