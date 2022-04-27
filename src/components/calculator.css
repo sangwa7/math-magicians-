@@ -7,7 +7,6 @@
   padding: 40px 0;
 }
 
-
 .container {
   background-color: rgb(18, 107, 185);
   font-size: 1rem;
@@ -16,7 +15,7 @@
   margin-top: 4vh;
 }
 
-.desc{
+.desc {
   min-height: 200px;
   width: 30%;
   margin-left: 5%;

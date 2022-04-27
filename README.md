@@ -23,7 +23,7 @@ This is a simple calculator App to perform basic mathematical operations.
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 - [ ] Open CMD or Terminal 
-- [ ] git clone https://github.com/sangwa7/math-magicians
+- [ ] git clone https://github.com/sangwa7/math-magicians-
 - [ ] cd into the folder that has all the contents.
 - [ ] run the command: npm start
 
