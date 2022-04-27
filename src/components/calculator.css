@@ -1,9 +1,26 @@
+.calculatorContainer {
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  margin-left: 5%;
+  padding: 40px 0;
+}
 
 .container {
-  width: fit-content;
+  background-color: rgb(18, 107, 185);
   font-size: 1rem;
   margin: 0 auto;
-  margin-top: 10vh;
+  width: fit-content;
+  margin-top: 4vh;
+}
+
+.desc {
+  min-height: 200px;
+  width: 30%;
+  margin-left: 5%;
+  top: 40px;
+  padding: 50px 0;
 }
 
 .screen {
